@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "Arctic Monkeys - I Wanna Be Yours.mp3", // Music streaming URL
+        musicUrl: "https://raw.githubusercontent.com/Zxqit-abdur2/valentine-website-2025/main/Arctic%20Monkeys%20-%20I%20Wanna%20Be%20Yours.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
